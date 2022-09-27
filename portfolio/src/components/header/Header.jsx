@@ -30,12 +30,12 @@ import "./header.css";
                     </a>
                     </li>
 
-                    <li className="nav_item">
+                    {/* <li className="nav_item">
                       <a href = "#services" className="nav_link">
                           <i className = "uil uil-briefcase-alt nav_icon"></i>
                         Interests
                        </a>
-                    </li>
+                    </li> */}
                     
                     <li className="nav_item">
                       <a href = "#portfolio" className="nav_link">

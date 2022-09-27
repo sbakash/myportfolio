@@ -56,8 +56,8 @@ const Data =()=>
                 </svg>
             </h1>
             <h3 className='home_subtitle'>Full-Stack Developer</h3>
-            <p className='home_description'>I'm a full stack devloper who os interested in problem solving 
-            hence dedicated and passionated in work
+            <p className='home_description'>I'm a full stack developer, A passionated and determined one who is interested in working on developing new applications  
+  
             </p>
             <a href="#contact" className="buttin button--flex">
                 Contact Me

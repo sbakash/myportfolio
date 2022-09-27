@@ -17,7 +17,7 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            
+            I am currently pursuing my Master's in Computer Science at Clemson University, I have completed my Bachelor's in COmputer Science in the year 2019 and worked as a Backend java developer for the product SalesIq from Zoho 
           </p>
 
           <a download="" href={CV} className="button button--flex">
